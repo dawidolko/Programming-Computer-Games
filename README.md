@@ -1,32 +1,31 @@
 # Programming-Computer-Games
 
-### **Gry komputerowe**
-## **Opis:**
-GryKom to repozytorium dedykowane programowaniu gier komputerowych. Znajdziesz tutaj przykładowe projekty, skrypty i materiały edukacyjne związane z tworzeniem gier.
+### **Computer games**
+## **Description:**
+GryKom is a repository dedicated to programming computer games. Here you will find example projects, scripts and educational materials related to game development.
 
-## **Struktura Repozytorium:**
-/Projects: Ten folder zawiera różne projekty, w których wykorzystuje się programowanie gier komputerowych. Każdy projekt posiada swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use computer game programming. Each project has its own folder with description and source code.
 
-/Lab: W tym folderze znajdują się przydatne skrypty i narzędzia programistyczne, które mogą ułatwić pracę nad tworzeniem gier.
+/Lab: This folder contains useful scripts and development tools that can make your game development work easier.
 
-/Courses: Tutaj znajdują się różnego rodzaju materiały edukacyjne, takie jak prezentacje, tutoriale, dokumentacja i artykuły związane z programowaniem gier komputerowych.
+/Courses: Here you can find all kinds of educational materials, such as presentations, tutorials, documentation and articles related to computer game programming.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Programming-Computer-Games.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Wypróbuj kod źródłowy i eksperymentuj z programowaniem gier komputerowych na podstawie dostępnych przykładów.
+Try out the source code and experiment with computer game programming based on the available examples.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie gier komputerowych, będziesz potrzebować środowiska programistycznego, takiego jak Unity, Unreal Engine lub inny dostępny framework lub silnik do tworzenia gier. Upewnij się, że masz zainstalowane wymagane narzędzia zgodnie z wybranym środowiskiem.
+## **System requirements**
+To start programming computer games, you will need a development environment such as Unity, Unreal Engine or any other available game development framework or engine. Make sure you have the required tools installed according to your chosen environment.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z programowaniem gier komputerowych. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own game development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
