@@ -1,25 +1,25 @@
-# Kursy związane z tworzeniem gier komputerowych
+# Courses related to creating computer games
 
-Witaj w świecie kursów związanych z tworzeniem gier komputerowych! Ten zestaw kursów oferuje różnorodne i zaawansowane treści edukacyjne, które pozwolą Ci zgłębić tajniki tworzenia gier w różnych językach programowania. Niezależnie od Twojego poziomu zaawansowania w programowaniu, te kursy będą doskonałym narzędziem do nauki i rozwijania umiejętności w dziedzinie tworzenia gier.
+Welcome to the world of courses related to creating computer games! This set of courses offers diverse and advanced educational content that will allow you to explore the secrets of game development in various programming languages. Regardless of your level of programming, these courses will be a great tool for learning and developing your game development skills.
 
-## Dlaczego warto uczestniczyć w tych kursach?
-Profesjonalna nauka: Kursy zostały stworzone przez doświadczonych programistów i ekspertów w dziedzinie tworzenia gier. Będziesz uczestniczyć w lekcjach prowadzonych przez ekspertów, którzy podzielą się swoją wiedzą i praktycznym doświadczeniem.
+## Why is it worth taking these courses?
+Professional learning: The courses were created by experienced programmers and experts in game development. You will participate in lessons conducted by experts who will share their knowledge and practical experience.
 
-Zróżnicowane tematy: Kursy skupiają się na różnych aspektach tworzenia gier, od podstawowych koncepcji programowania po zaawansowane techniki graficzne, fizyki gry, sztucznej inteligencji, projektowania interfejsu użytkownika i wiele innych. To pozwoli Ci poszerzyć swoje horyzonty i zdobyć kompleksową wiedzę na temat tworzenia gier.
+Varied Topics: Courses focus on various aspects of game development, from basic programming concepts to advanced graphics techniques, game physics, artificial intelligence, UI design, and more. This will allow you to expand your horizons and gain comprehensive knowledge about game development.
 
-Praktyczne projekty: W trakcie kursów będziesz pracować nad praktycznymi projektami, które pozwolą Ci natychmiast zastosować zdobytą wiedzę w praktyce. Będziesz tworzyć własne gry, od prostych prototypów po bardziej zaawansowane produkcje, co pozwoli Ci zobaczyć efekty swojej pracy.
+Practical projects: During the courses, you will work on practical projects that will allow you to immediately apply the knowledge you have acquired in practice. You will create your own games, from simple prototypes to more advanced productions, which will allow you to see the effects of your work.
 
-Indywidualny progres: Kursy są zaprojektowane w sposób umożliwiający dostosowanie tempa nauki do Twoich potrzeb. Będziesz mógł uczyć się w dogodnym dla Ciebie czasie i pracować nad kursami w swoim własnym tempie.
+Individual progression: Courses are designed in a way that allows you to adjust the pace of learning to your needs. You will be able to learn at a time that suits you and work on the courses at your own pace.
 
-## Przykładowe tematy kursów:
-Podstawy programowania: Rozpoczniesz od nauki podstaw programowania w różnych językach, takich jak Python, Java, C++, JavaScript i inne.
+## Sample course topics:
+Programming Basics: You'll start by learning the basics of programming in a variety of languages ​​such as Python, Java, C++, JavaScript, and more.
 
-Tworzenie gier 2D i 3D: Poznasz techniki tworzenia gier 2D i 3D oraz nauczysz się korzystać z odpowiednich silników i narzędzi do ich tworzenia.
+Creating 2D and 3D games: You will learn techniques for creating 2D and 3D games and learn to use the appropriate engines and tools to create them.
 
-Grafika i animacje: Kursy pozwolą Ci opanować techniki tworzenia grafiki i animacji w grach, od prostych elementów po efekty specjalne.
+Graphics and animations: The courses will allow you to master the techniques of creating graphics and animations in games, from simple elements to special effects.
 
-Fizyka gry: Nauczysz się, jak implementować fizykę w grach, tak aby obiekty poruszały się realistycznie i reagowały na interakcje użytkownika.
+Game Physics: You will learn how to implement physics in games so that objects move realistically and respond to user interactions.
 
-Sztuczna inteligencja: Dowiesz się, jak tworzyć zaawansowane systemy sztucznej inteligencji dla postaci niezależnych w grach.
+Artificial Intelligence: You will learn how to create advanced artificial intelligence systems for NPCs in games.
 
-Niech te kursy stanowią Twoją inspirację i przewodnika w fascynującym świecie tworzenia gier komputerowych. Dzięki nim zdobędziesz wiedzę i umiejętności, które pozwolą Ci tworzyć własne gry i realizować swoje kreatywne wizje.
+Let these courses be your inspiration and guide in the fascinating world of creating computer games. Thanks to them, you will gain knowledge and skills that will allow you to create your own games and realize your creative visions.
