@@ -1,27 +1,27 @@
-# Projekty związane z tworzeniem gier komputerowych
+# Projects related to the creation of computer games
 
-Witaj w świecie projektów związanych z tworzeniem gier komputerowych! Ten zbiór projektów oferuje różnorodne i interesujące przykłady wykorzystania różnych języków programowania do tworzenia gier. Niezależnie od Twojego poziomu zaawansowania w programowaniu, te projekty będą wspaniałą okazją do rozwijania umiejętności oraz zdobywania doświadczenia w dziedzinie tworzenia gier.
+Welcome to the world of computer game development projects! This collection of projects offers diverse and interesting examples of using different programming languages ​​to create games. Regardless of your level of programming, these projects will be a great opportunity to develop your skills and gain experience in game development.
 
-## Dlaczego warto uczestniczyć w tych projektach?
+## Why is it worth participating in these projects?
 
-Rozwijanie umiejętności programowania: Projekty zapewnią Ci okazję do nauki i praktycznego zastosowania różnych języków programowania. Będziesz tworzyć gry w językach takich jak Python, Java, C++, JavaScript, Ruby i wiele innych, co pozwoli Ci poszerzyć swoje horyzonty programistyczne.
+Developing programming skills: Projects will provide you with the opportunity to learn and practice different programming languages. You will create games in languages ​​such as Python, Java, C++, JavaScript, Ruby and many others, which will allow you to expand your programming horizons.
 
-Kreatywność i zabawa: Tworzenie gier to fascynujący proces, który pozwala na wyrażanie swojej kreatywności. Będziesz mógł tworzyć unikalne światy, postacie, rozgrywki i mechaniki gry, co doda przyjemności do nauki programowania.
+Creativity and fun: Creating games is a fascinating process that allows you to express your creativity. You will be able to create unique worlds, characters, gameplay and game mechanics, which will add fun to learning programming.
 
-Praktyczne zastosowanie wiedzy: Projekty skupiają się na praktycznym zastosowaniu wiedzy programistycznej. Będziesz pracować nad różnymi aspektami gry, takimi jak logika, fizyka, grafika, interakcje użytkownika i wiele innych, co pozwoli Ci lepiej zrozumieć, jak działają gry komputerowe.
+Practical application of knowledge: Projects focus on the practical application of programming knowledge. You will work on various aspects of the game such as logic, physics, graphics, user interaction and much more, which will give you a better understanding of how computer games work.
 
-Możliwość współpracy i dzielenia się: Repozytorium projektów to również świetne miejsce do dzielenia się swoimi pomysłami i doświadczeniem z innymi entuzjastami gier komputerowych. Współpraca i feedback od innych uczestników projektów pomogą Ci rozwijać się szybciej i lepiej zrozumieć różne aspekty tworzenia gier.
+Collaboration and sharing: The project repository is also a great place to share your ideas and experience with other gaming enthusiasts. Collaboration and feedback from other project participants will help you develop faster and better understand various aspects of game development.
 
-## Przykładowe projekty:
+## Sample projects:
 
-Platformówki: Stwórz prostą grę platformową, w której postać może skakać, zbierać punkty i unikać przeszkód.
+Platformers: Create a simple platform game where your character can jump, collect points, and avoid obstacles.
 
-Strzelanki: Zaimplementuj grę strzelanki, w której gracz musi eliminować przeciwników, unikać ataków i zdobywać nagrody.
+Shooting Games: Implement a shooting game where the player has to eliminate opponents, avoid attacks and earn rewards.
 
-Gry logiczne: Stwórz grę logiczną, np. łamigłówkę, układankę lub sudoku.
+Logic Games: Create a logic game such as a brain teaser, jigsaw or sudoku.
 
-Gry RPG: Opracuj prostą grę RPG, w której gracz wciela się w postać, podejmuje decyzje, walcząc z potworami i zdobywając doświadczenie.
+RPG Games: Develop a simple RPG game where the player takes on the role of a character, makes decisions, fights monsters, and gains experience.
 
-Gry symulacyjne: Zaimplementuj symulację świata, ekosystemu lub procesu, w którym gracz może wpływać na wydarzenia i obserwować rezultaty swoich działań.
+Simulation Games: Implement a simulation of a world, ecosystem, or process in which the player can influence events and observe the results of their actions.
 
-Niech te projekty stanowią początek Twojej fascynującej przygody z tworzeniem gier komputerowych w różnych językach programowania!
+Let these projects be the beginning of your fascinating adventure with creating computer games in various programming languages!
